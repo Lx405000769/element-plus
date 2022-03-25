@@ -26,7 +26,7 @@ const formatter = (row: User, column: TableColumnCtx<User>) => {
 const tableData: User[] = [
   {
     date: '2016-05-03',
-    name: 'Tom',
+    name: 'Wom',
     address: 'No. 189, Grove St, Los Angeles',
   },
   {
@@ -36,12 +36,12 @@ const tableData: User[] = [
   },
   {
     date: '2016-05-04',
-    name: 'Tom',
+    name: 'Zom',
     address: 'No. 189, Grove St, Los Angeles',
   },
   {
     date: '2016-05-01',
-    name: 'Tom',
+    name: 'Lom',
     address: 'No. 189, Grove St, Los Angeles',
   },
 ]
